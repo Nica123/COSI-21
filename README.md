@@ -1,2 +1,2 @@
-# COSI-21
+# Telephone Game
 Data Structure &amp; Algorithm
